@@ -1,5 +1,5 @@
 
-/*const n = 8;*/
+const n = 8;
 
 function fibonacci(n) {
     if (n == 0) return;
